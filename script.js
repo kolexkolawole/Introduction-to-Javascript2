@@ -1,7 +1,8 @@
 
 var x = parseFloat( prompt("Enter a number"));
-var y = parseFloat( prompt("Enter another number"));
 var operator = prompt("Enter operator (+, -, /, *)");
+var y = parseFloat( prompt("Enter another number"));
+
 
 let result = 0;
     
