@@ -6,8 +6,7 @@ Introduction to Javascript2@zuri
 
 # [![pages-build-deployment](https://github.com/kolexkolawole/Introduction-to-Javascript2/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kolexkolawole/Introduction-to-Javascript2/actions/workflows/pages/pages-build-deployment)
 
+#  [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/kolexkolawole/Introduction-to-Javascript2/actions/workflows/pages.yml/badge.svg)](https://github.com/kolexkolawole/Introduction-to-Javascript2/actions/workflows/pages.yml)
 
-
-#  
 
 #  KOLEX
